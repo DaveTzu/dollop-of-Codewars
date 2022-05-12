@@ -25,4 +25,6 @@ function accum(s) {
         return 'G'
       }
     }).join('')
-  }
+  } 
+
+  
